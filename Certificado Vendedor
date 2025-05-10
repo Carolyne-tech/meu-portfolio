@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="iconepag.ico" type="image/x-icon">
+    <title>Certificado Vendedor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>CERTIFICADO DE VENDEDOR</h1>
+    <img src="Certificado Vendedor - 01650.JPG" alt="Certificado de Vendedor">
+    <img src="Certificado Vendedor - 02650.JPG" alt="Certificado de Vendedor">
+    <h3>Link para download:
+    </h3>
+    
+</body>
+</html>
